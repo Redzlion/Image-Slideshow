@@ -5,10 +5,15 @@ A C# WPF application for browsing and displaying image slideshows on Windows sys
 Features:
 
 1.Intuitive directory navigation using a tree view.
+
 2.Image file details displayed in a side panel (width, height, size).
+
 3.Custom transition effects for slideshows with dynamic plugin loading.
+
 4.Supports common image formats (PNG, JPG, and GIF).
+
 5.Context menu and button controls for starting slideshows.
+
 
 How to use:
 
