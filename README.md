@@ -22,7 +22,9 @@ Open the solution in Visual Studio.
 Build and run the application.
 Browse directories and select images for your slideshow.
 Choose a transition effect and start the slideshow.
+
 Contributions:
+
 
 Feel free to open issues or submit pull requests with bug fixes or feature improvements. Your contributions are welcome and appreciated!  
 
