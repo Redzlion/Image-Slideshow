@@ -1,0 +1,18 @@
+K:\Projects\FIVERR\abdulkra\Image Slideshow\OpacityEffect\bin\Debug\OpacityEffect.dll
+K:\Projects\FIVERR\abdulkra\Image Slideshow\OpacityEffect\bin\Debug\OpacityEffect.pdb
+K:\Projects\FIVERR\abdulkra\Image Slideshow\OpacityEffect\bin\Debug\ISlideshowEffect.dll
+K:\Projects\FIVERR\abdulkra\Image Slideshow\OpacityEffect\bin\Debug\ISlideshowEffect.pdb
+K:\Projects\FIVERR\abdulkra\Image Slideshow\OpacityEffect\obj\Debug\OpacityEffect.csproj.AssemblyReference.cache
+K:\Projects\FIVERR\abdulkra\Image Slideshow\OpacityEffect\obj\Debug\OpacityEffect.csproj.CoreCompileInputs.cache
+K:\Projects\FIVERR\abdulkra\Image Slideshow\OpacityEffect\obj\Debug\OpacityEffect.csproj.CopyComplete
+K:\Projects\FIVERR\abdulkra\Image Slideshow\OpacityEffect\obj\Debug\OpacityEffect.dll
+K:\Projects\FIVERR\abdulkra\Image Slideshow\OpacityEffect\obj\Debug\OpacityEffect.pdb
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\OpacityEffect\bin\Debug\OpacityEffect.dll
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\OpacityEffect\bin\Debug\OpacityEffect.pdb
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\OpacityEffect\bin\Debug\ISlideshowEffect.dll
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\OpacityEffect\bin\Debug\ISlideshowEffect.pdb
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\OpacityEffect\obj\Debug\OpacityEffect.csproj.AssemblyReference.cache
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\OpacityEffect\obj\Debug\OpacityEffect.csproj.CoreCompileInputs.cache
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\OpacityEffect\obj\Debug\OpacityEffect.csproj.CopyComplete
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\OpacityEffect\obj\Debug\OpacityEffect.dll
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\OpacityEffect\obj\Debug\OpacityEffect.pdb

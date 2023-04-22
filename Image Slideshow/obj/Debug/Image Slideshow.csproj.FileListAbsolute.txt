@@ -1,0 +1,52 @@
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\bin\Debug\Image Slideshow.exe.config
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\bin\Debug\Image Slideshow.exe
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\bin\Debug\Image Slideshow.pdb
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\bin\Debug\HorizontalEffect.dll
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\bin\Debug\ISlideshowEffect.dll
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\bin\Debug\OpacityEffect.dll
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\bin\Debug\VerticalEffect.dll
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\bin\Debug\HorizontalEffect.pdb
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\bin\Debug\ISlideshowEffect.pdb
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\bin\Debug\OpacityEffect.pdb
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\bin\Debug\VerticalEffect.pdb
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\obj\Debug\Image Slideshow.csproj.AssemblyReference.cache
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\obj\Debug\MainWindow.g.cs
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\obj\Debug\Slideshow.g.cs
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\obj\Debug\App.g.cs
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\obj\Debug\Image Slideshow_MarkupCompile.cache
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\obj\Debug\Image Slideshow_MarkupCompile.lref
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\obj\Debug\MainWindow.baml
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\obj\Debug\Slideshow.baml
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\obj\Debug\Image Slideshow.g.resources
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\obj\Debug\Image_Slideshow.Properties.Resources.resources
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\obj\Debug\Image Slideshow.csproj.GenerateResource.cache
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\obj\Debug\Image Slideshow.csproj.CoreCompileInputs.cache
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\obj\Debug\Image Slideshow.csproj.CopyComplete
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\obj\Debug\Image Slideshow.exe
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\LastWPF\Image Slideshow\obj\Debug\Image Slideshow.pdb
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\bin\Debug\Image Slideshow.exe.config
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\bin\Debug\Image Slideshow.exe
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\bin\Debug\Image Slideshow.pdb
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\bin\Debug\HorizontalEffect.dll
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\bin\Debug\ISlideshowEffect.dll
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\bin\Debug\OpacityEffect.dll
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\bin\Debug\VerticalEffect.dll
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\bin\Debug\HorizontalEffect.pdb
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\bin\Debug\ISlideshowEffect.pdb
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\bin\Debug\OpacityEffect.pdb
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\bin\Debug\VerticalEffect.pdb
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\obj\Debug\Image Slideshow.csproj.AssemblyReference.cache
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\obj\Debug\MainWindow.g.cs
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\obj\Debug\Slideshow.g.cs
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\obj\Debug\App.g.cs
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\obj\Debug\Image Slideshow_MarkupCompile.cache
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\obj\Debug\Image Slideshow_MarkupCompile.lref
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\obj\Debug\MainWindow.baml
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\obj\Debug\Slideshow.baml
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\obj\Debug\Image Slideshow.g.resources
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\obj\Debug\Image_Slideshow.Properties.Resources.resources
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\obj\Debug\Image Slideshow.csproj.GenerateResource.cache
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\obj\Debug\Image Slideshow.csproj.CoreCompileInputs.cache
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\obj\Debug\Image Slideshow.csproj.CopyComplete
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\obj\Debug\Image Slideshow.exe
+C:\Users\josef\OneDrive\Desktop\PIGE\WPF\LastWPF\Image Slideshow\Image Slideshow\obj\Debug\Image Slideshow.pdb
